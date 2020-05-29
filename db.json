@@ -1,19 +1,22 @@
 {
   "logs": [
     {
-      "id": "Changed hard drive on workstation 005",
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
       "attention": false,
       "date": "03-02-2020",
       "tech": "Sam Smith"
     },
     {
-      "id": "Workstation 007 not posting",
+      "id": 2,
+      "message": "Workstation 007 not posting",
       "attention": true,
       "date": "03-02-2020",
       "tech": "John Doe"
     },
     {
-      "id": "Changed memory on workstation 050",
+      "id": 3,
+      "message": "Changed memory on workstation 050",
       "attention": false,
       "date": "03-02-2020",
       "tech": "Sarah Greene"
