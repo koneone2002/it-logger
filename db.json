@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "workstation 007 needs new OS installation",
       "attention": true,
-      "date": "03-02-2020",
-      "tech": "John Doe"
+      "tech": "Sarah Greene",
+      "date": "2020-06-01T23:46:00.017Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Updated workstation 019 security patch",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sarah Greene"
+      "tech": "John Doe",
+      "date": "2020-06-01T23:46:25.644Z",
+      "id": 2
     },
     {
-      "id": 4,
-      "message": "Need to help the lady at workstation 017",
-      "attention": true,
-      "date": "05-28-2020",
-      "tech": "Sarah Greene"
+      "message": "Replaced non functioning monitor on workstation 003",
+      "attention": false,
+      "tech": "Sarah Greene",
+      "date": "2020-06-01T23:46:53.411Z",
+      "id": 3
     }
   ],
   "techs": [
