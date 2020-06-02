@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "workstation 007 needs new OS installation",
+      "id": 1,
+      "message": "workstation 007 needs clean up on Aisle 8",
       "attention": true,
       "tech": "Sarah Greene",
-      "date": "2020-06-01T23:46:00.017Z",
-      "id": 1
+      "date": "2020-06-02T01:38:31.499Z"
     },
     {
       "message": "Replaced non functioning monitor on workstation 003",
