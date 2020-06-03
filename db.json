@@ -1,18 +1,46 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "workstation 007 needs clean up on Aisle 8",
-      "attention": true,
-      "tech": "Sarah Greene",
-      "date": "2020-06-02T01:38:31.499Z"
-    },
-    {
       "message": "Replaced non functioning monitor on workstation 003",
       "attention": false,
       "tech": "Sarah Greene",
       "date": "2020-06-01T23:46:53.411Z",
       "id": 3
+    },
+    {
+      "message": "Need new cable on workstation 016",
+      "attention": true,
+      "tech": "Sarah Greene",
+      "date": "2020-06-02T01:58:06.203Z",
+      "id": 4
+    },
+    {
+      "message": "Need to update Security Patch on workstation 010",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-02T01:59:08.042Z",
+      "id": 5
+    },
+    {
+      "message": "New workstation set up for 020",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-06-02T01:59:53.706Z",
+      "id": 6
+    },
+    {
+      "message": "Add a \"to archive\" button",
+      "attention": true,
+      "tech": "Sarah Greene",
+      "date": "2020-06-02T02:00:46.684Z",
+      "id": 7
+    },
+    {
+      "message": "Add a \"show archive\" button",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-02T02:01:50.369Z",
+      "id": 8
     }
   ],
   "techs": [
