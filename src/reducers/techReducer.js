@@ -5,8 +5,9 @@ import {
   ADD_TECH,
   DELETE_TECH
 } from '../actions/types';
+
 const initialState = {
-  tech: null,
+  techs: null,
   loading: false,
   error: null
 };
