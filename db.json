@@ -58,35 +58,6 @@
       "id": 3,
       "firstName": "Sam",
       "lastName": "Smith"
-    },
-    {
-      "firstName": "Bryan",
-      "lastName": "Jones",
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "firstName": "Katie",
-      "lastName": "ONeill",
-      "id": 9
-    },
-    {
-      "firstName": "Bob",
-      "lastName": "Villa",
-      "id": 10
-    },
-    {
-      "firstName": "Patricia",
-      "lastName": "Ciccini",
-      "id": 11
     }
   ]
 }
